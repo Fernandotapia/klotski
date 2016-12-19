@@ -1,0 +1,28 @@
+# To change this license header, choose License Headers in Project Properties.
+# To change this template file, choose Tools | Templates
+# and open the template in the editor.
+
+VXP=6
+#VALOR DEL EJE Y
+VXL=6
+
+
+     vA1=E
+     vA2=R
+     vA3=+
+     vA4=T
+   
+     vB1=Y
+     vB2=U
+     vB3=I
+     vB4=O
+    
+     vC1=L
+     vC2=K 
+     vC3=J
+     vC4=H
+    
+     vD1=G
+     vD2=F
+     vD3=D
+     vD4=S
